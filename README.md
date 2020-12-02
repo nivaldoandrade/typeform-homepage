@@ -2,7 +2,7 @@
 
 <p>Recriando as animações da homepage do Typeform utilizando Motion.</p>
 
-<img style="margin-top: 16px" alt="gif-homepage-typeform" src="">
+<img style="margin-top: 16px" src="https://github.com/nivaldoandrade/typeform-homepage/blob/master/asstesReadme/homepage-typeform.gif">
 
 <h1 style="margin-top: 32px">Tecnologias</h1>
 <ul>
